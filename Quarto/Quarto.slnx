@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Quarto.vcxproj" />
+  <Project Path="Quarto.vcxproj" Id="922b8ee6-5c46-428d-8231-7b26ec721b92" />
 </Solution>

@@ -1,6 +1,17 @@
-#include <iostream>
+import <print>;
+import <iostream>;
+import Piece;
 
 int main()
 {
-	std::cout << "Hello world!";
+	using quarto::Piece;
+
+	using enum Piece::Body;
+	using enum Piece::Color;
+	using enum Piece::Height;
+	using enum Piece::Shape;
+
+	Piece piece{ Hollow, White, Tall, Round };
+
+	std::cout << piece << "\n";
 }

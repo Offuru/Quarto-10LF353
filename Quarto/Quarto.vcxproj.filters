@@ -18,5 +18,11 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Piece.ixx">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Piece.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
